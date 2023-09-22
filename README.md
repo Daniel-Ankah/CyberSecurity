@@ -1,8 +1,8 @@
-#CyberSecurity -- A walk through the maze of Cybersecurity
+# CyberSecurity -- A walk through the maze of Cybersecurity
 
 # CyberSecusity from Zero to Hero Program
 
-Day 1: Getting Started with Cybersecurity 
+<u> Day 1: Getting Started with Cybersecurity </u> 
 
 Introduction to Security(Cyber)
 
