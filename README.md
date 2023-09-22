@@ -14,3 +14,9 @@ Wireshark
 Kali Linux
 
 
+# Project of the Day 
+
+Project             Status
+Packet Tracer        Completed
+Wireshark            Completed
+Kali Linux            Completed
