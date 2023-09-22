@@ -2,7 +2,7 @@
 
 # CyberSecusity from Zero to Hero Program
 
-<u> Day 1: Getting Started with Cybersecurity </u> 
+<u>Maze 1: Getting Started with Cybersecurity</u> 
 
 Introduction to CyberSecurity
 
