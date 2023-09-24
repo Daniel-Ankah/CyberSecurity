@@ -91,36 +91,36 @@ Completed
 
 10. Regular Security Audits and Assessments:
    
-    •	Perform regular security assessments, vulnerability scans, and penetration testing to identify and remediate security weaknesses.
+       •	Perform regular security assessments, vulnerability scans, and penetration testing to identify and remediate security weaknesses.
 
-    •	Stay informed about security updates and patches provided by your cloud provider.
+       •	Stay informed about security updates and patches provided by your cloud provider.
 
 
 11. Employee Training and Awareness:
 
-   •	Educate employees and cloud users about security best practices and the importance of adhering to security policies.
+      •	Educate employees and cloud users about security best practices and the importance of adhering to security policies.
 
-   •	Conduct security awareness training regularly to keep users informed about emerging threats.
+      •	Conduct security awareness training regularly to keep users informed about emerging threats.
 
 
 12. Compliance and Reporting:
     
-   •	Ensure compliance with industry-specific regulations (e.g., GDPR, HIPAA) and report compliance as required.
+      •	Ensure compliance with industry-specific regulations (e.g., GDPR, HIPAA) and report compliance as required.
 
-   •	Maintain documentation of security practices and audits for compliance purposes.
+      •	Maintain documentation of security practices and audits for compliance purposes.
 
 
 13. Automation and DevSecOps:
     
-   •	Incorporate security into your DevOps processes using DevSecOps principles.
+      •	Incorporate security into your DevOps processes using DevSecOps principles.
 
-   •	Automate security checks and policy enforcement throughout the development and deployment lifecycle.
+      •	Automate security checks and policy enforcement throughout the development and deployment lifecycle.
 
 
 14. Stay Informed and Adapt:
     
-   •	Continuously monitor emerging threats and security best practices.
+      •	Continuously monitor emerging threats and security best practices.
 
-   •	Be prepared to adapt your security measures as new technologies and risks evolve.
+      •	Be prepared to adapt your security measures as new technologies and risks evolve.
 
 
