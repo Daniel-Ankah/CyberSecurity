@@ -84,9 +84,9 @@ Completed
 
 9. Incident Response and Disaster Recovery:
    
-  •	Develop an incident response plan that outlines the steps to take in case of a security incident.
+     •	Develop an incident response plan that outlines the steps to take in case of a security incident.
   
-  •	Create and test disaster recovery and backup strategies to ensure data availability and continuity.
+     •	Create and test disaster recovery and backup strategies to ensure data availability and continuity.
   
 
 10. Regular Security Audits and Assessments:
@@ -95,11 +95,13 @@ Completed
 
    •	Stay informed about security updates and patches provided by your cloud provider.
 
+
 11. Employee Training and Awareness:
 
    •	Educate employees and cloud users about security best practices and the importance of adhering to security policies.
 
    •	Conduct security awareness training regularly to keep users informed about emerging threats.
+
 
 12. Compliance and Reporting:
     
@@ -107,11 +109,13 @@ Completed
 
    •	Maintain documentation of security practices and audits for compliance purposes.
 
+
 13. Automation and DevSecOps:
     
    •	Incorporate security into your DevOps processes using DevSecOps principles.
 
    •	Automate security checks and policy enforcement throughout the development and deployment lifecycle.
+
 
 14. Stay Informed and Adapt:
     
