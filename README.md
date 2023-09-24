@@ -24,6 +24,10 @@ Installation of Tools of the trade:
 
 Completed 
 
+
+###########################################################################
+
+
 # <u>Maze 2: Project II: Design a cloud infrastructure security for an SME.
 
 # Procedure #
@@ -124,3 +128,6 @@ Completed
       •	Be prepared to adapt your security measures as new technologies and risks evolve.
 
 
+#####################################################################
+
+# <u>Maze 3: Breaking down the Linux Structure 
