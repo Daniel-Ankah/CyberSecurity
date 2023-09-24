@@ -84,16 +84,16 @@ Completed
 
 9. Incident Response and Disaster Recovery:
    
-     •	Develop an incident response plan that outlines the steps to take in case of a security incident.
+    •	Develop an incident response plan that outlines the steps to take in case of a security incident.
   
-     •	Create and test disaster recovery and backup strategies to ensure data availability and continuity.
+    •	Create and test disaster recovery and backup strategies to ensure data availability and continuity.
   
 
 10. Regular Security Audits and Assessments:
    
-   •	Perform regular security assessments, vulnerability scans, and penetration testing to identify and remediate security weaknesses.
+    •	Perform regular security assessments, vulnerability scans, and penetration testing to identify and remediate security weaknesses.
 
-   •	Stay informed about security updates and patches provided by your cloud provider.
+    •	Stay informed about security updates and patches provided by your cloud provider.
 
 
 11. Employee Training and Awareness:
