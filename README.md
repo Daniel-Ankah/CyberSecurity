@@ -154,7 +154,7 @@ Completed
       o	Risk assessment
       o	Vulnerability assessment
       o	Security policies and procedures review
-      o	Compliance assessment with relevant regulations (e.g., GDPR, HIPAA)
+      o	Compliance assessment with relevant regulations (e.g., Gh-Cyber-Law)
 
 4. Identify Priorities and Set Objectives:
    
