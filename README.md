@@ -186,53 +186,53 @@ Completed
    
 10. Training and Awareness:
 
-   •	Provide cybersecurity training and awareness programs for employees, contractors, and third parties.
-   •	Ensure that everyone understands their roles and responsibilities in the NIST CSF implementation.
+      •	Provide cybersecurity training and awareness programs for employees, contractors, and third parties.
+      •	Ensure that everyone understands their roles and responsibilities in the NIST CSF implementation.
 
 11. Continuous Monitoring:
     
-   •	Implement continuous monitoring tools and processes to detect and respond to security incidents in real-time.
-   •	Regularly review and update security controls and practices.
+      •	Implement continuous monitoring tools and processes to detect and respond to security incidents in real-time.
+      •	Regularly review and update security controls and practices.
 
 12. Incident Response Plan:
     
-   •	Develop and test an incident response plan that aligns with the NIST CSF framework.
-   •	Define roles, responsibilities, and procedures for responding to and recovering from security incidents.
+      •	Develop and test an incident response plan that aligns with the NIST CSF framework.
+      •	Define roles, responsibilities, and procedures for responding to and recovering from security incidents.
    
 13. Metrics and Reporting:
 
-   •	Define key performance indicators (KPIs) and metrics to measure the effectiveness of the NIST CSF implementation.
-   •	Establish reporting mechanisms to provide regular updates to executive leadership.
+      •	Define key performance indicators (KPIs) and metrics to measure the effectiveness of the NIST CSF implementation.
+      •	Establish reporting mechanisms to provide regular updates to executive leadership.
    
 14. Compliance and Audit:
-    
-   •	Ensure ongoing compliance with relevant regulations and industry standards.
-   •	Prepare for external audits and assessments.
+       
+      •	Ensure ongoing compliance with relevant regulations and industry standards.
+      •	Prepare for external audits and assessments.
 
 15. Continuous Improvement:
     
-   •	Continuously assess and improve the cybersecurity program based on lessons learned, new threats, and changing business needs.
+      •	Continuously assess and improve the cybersecurity program based on lessons learned, new threats, and changing business needs.
    
 16. Documentation and Documentation:
 
-   •	Maintain detailed documentation of all aspects of the NIST CSF implementation, including policies, procedures, assessments, and incident reports.
+      •	Maintain detailed documentation of all aspects of the NIST CSF implementation, including policies, procedures, assessments, and incident reports.
 
 17. Vendor and Third-Party Management:
 
-   •	Implement a vendor and third-party risk management program to ensure that external partners align with NIST CSF principles.
+      •	Implement a vendor and third-party risk management program to ensure that external partners align with NIST CSF principles.
 
 18. Incident Simulation and Tabletop Exercises:
     
-   •	Conduct periodic incident simulation exercises and tabletop drills to test the incident response plan and the organization's readiness.
+      •	Conduct periodic incident simulation exercises and tabletop drills to test the incident response plan and the organization's readiness.
 
 19. External Partnerships:
     
-   •	Engage with external cybersecurity organizations, ISACs (Information Sharing and Analysis Centers), and industry groups for threat intelligence sharing and collaboration.
+      •	Engage with external cybersecurity organizations, ISACs (Information Sharing and Analysis Centers), and industry groups for threat intelligence sharing and collaboration.
    
 20. Executive and Board Reporting:
  
-   •	Regularly update executive leadership and the board of directors on cybersecurity matters, risk mitigation progress, and the overall security posture.
+      •	Regularly update executive leadership and the board of directors on cybersecurity matters, risk mitigation progress, and the overall security posture.
    
 21. Review and Adapt:
 
-   •	Periodically review the NIST CSF implementation to ensure it remains effective and adapts to changing business needs and emerging threats.
+      •	Periodically review the NIST CSF implementation to ensure it remains effective and adapts to changing business needs and emerging threats.
